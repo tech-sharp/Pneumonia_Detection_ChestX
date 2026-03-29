@@ -191,4 +191,4 @@ You will simply _describe_ how a FDA Validation Plan would be conducted for your
     * Any other diseases that should be included _or_ excluded as comorbidities in the population
 
 * Provide a short explanation of how you would obtain an optimal ground truth 
-* Provide a performance standard that you choose based on [this paper.](https://arxiv.org/pdf/1711.05225.pdf)
+* Provide a performance standard that you choose based on [this paper.](https://arxiv.org/pdf/1711.05225.pdf)
