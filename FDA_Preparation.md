@@ -215,4 +215,4 @@ To bypass inaccuracies introduced by NLP, a digital form should be provided to R
 **Algorithm Performance Standard:**
 <br>Based on the provided paper by P.Rajpurkarpar, et al., the performance standard is F1 scores comparing radiologists and algorithms.  F1 scores are the harmonic average of the precision and recall of the models.
 <br>Rajpurkarpar's CheXNet algorithm achieve an F1 score of 0.435, while Radiologists averaged an F1 score of 0.387.  These would be the benchmarks to compare newly developed algorihms to. 
-
+
